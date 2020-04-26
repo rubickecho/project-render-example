@@ -1,0 +1,8 @@
+2020-04-26 16:00:38: -- 分析开始 On File Change, After Delay, Under Runner
+2020-04-26 16:00:38: 变更：2， 冲突：0， 复制时间：0， 复制状态：0， 错误： 0, All: 16
+2020-04-26 16:00:38: Right to Left: Copy File: 2 
+2020-04-26 16:00:38: == 同步开始由 On File Change, After Delay, Under Runner
+2020-04-26 16:00:38: 覆盖复制 '/Users/tangliangcheng/workspeace/lwc-erp-design/form-generator/src/components/widget/row/index.js' -> '/Users/tangliangcheng/workspeace/lwc-erp-design/project-render/src/components/widget/row/index.js' (117)
+2020-04-26 16:00:38: 覆盖复制 '/Users/tangliangcheng/workspeace/lwc-erp-design/form-generator/src/components/widget/row/src/row.js' -> '/Users/tangliangcheng/workspeace/lwc-erp-design/project-render/src/components/widget/row/src/row.js' (698)
+2020-04-26 16:00:38: == 同步完成. 历时: 00:00:01, 速度: 0.00/s, 完成: 2, 错误: 0
+2020-04-26 16:00:38: 

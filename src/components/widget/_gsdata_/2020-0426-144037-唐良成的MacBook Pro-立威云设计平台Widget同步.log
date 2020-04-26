@@ -1,0 +1,14 @@
+2020-04-26 14:41:39: == 同步开始由 User Command
+2020-04-26 14:41:39: 创建文件夹 '/Users/tangliangcheng/workspeace/lwc-erp-design/form-generator/src/components/widget/form'
+2020-04-26 14:41:39: 创建文件夹 '/Users/tangliangcheng/workspeace/lwc-erp-design/form-generator/src/components/widget/form/src'
+2020-04-26 14:41:39: 创建文件夹 '/Users/tangliangcheng/workspeace/lwc-erp-design/form-generator/src/components/widget/row'
+2020-04-26 14:41:39: 创建文件夹 '/Users/tangliangcheng/workspeace/lwc-erp-design/form-generator/src/components/widget/row/src'
+2020-04-26 14:41:39: 新建复制 '/Users/tangliangcheng/workspeace/lwc-erp-design/project-render/src/components/widget/form/index.js' -> '/Users/tangliangcheng/workspeace/lwc-erp-design/form-generator/src/components/widget/form/index.js' (124)
+2020-04-26 14:41:39: 新建复制 '/Users/tangliangcheng/workspeace/lwc-erp-design/project-render/src/components/widget/form/src/main.vue' -> '/Users/tangliangcheng/workspeace/lwc-erp-design/form-generator/src/components/widget/form/src/main.vue' (6,490)
+2020-04-26 14:41:39: 覆盖复制 '/Users/tangliangcheng/workspeace/lwc-erp-design/project-render/src/components/widget/index.js' -> '/Users/tangliangcheng/workspeace/lwc-erp-design/form-generator/src/components/widget/index.js' (502) (User Action)
+2020-04-26 14:41:39: 新建复制 '/Users/tangliangcheng/workspeace/lwc-erp-design/project-render/src/components/widget/row/index.js' -> '/Users/tangliangcheng/workspeace/lwc-erp-design/form-generator/src/components/widget/row/index.js' (118)
+2020-04-26 14:41:39: 新建复制 '/Users/tangliangcheng/workspeace/lwc-erp-design/project-render/src/components/widget/row/src/row.vue' -> '/Users/tangliangcheng/workspeace/lwc-erp-design/form-generator/src/components/widget/row/src/row.vue' (474)
+2020-04-26 14:41:39: 覆盖复制 '/Users/tangliangcheng/workspeace/lwc-erp-design/project-render/src/components/widget/table/index.js' -> '/Users/tangliangcheng/workspeace/lwc-erp-design/form-generator/src/components/widget/table/index.js' (129) (User Action)
+2020-04-26 14:41:39: 覆盖复制 '/Users/tangliangcheng/workspeace/lwc-erp-design/project-render/src/components/widget/table/src/main.vue' -> '/Users/tangliangcheng/workspeace/lwc-erp-design/form-generator/src/components/widget/table/src/main.vue' (616) (User Action)
+2020-04-26 14:41:39: == 同步完成. 历时: 00:00:00, 速度: 0.00/s, 完成: 13, 错误: 0
+2020-04-26 14:41:39: 

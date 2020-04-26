@@ -1,0 +1,8 @@
+2020-04-26 17:56:46: -- 分析开始 On File Change, After Delay, Under Runner
+2020-04-26 17:56:46: 变更：2， 冲突：0， 复制时间：0， 复制状态：0， 错误： 0, All: 13
+2020-04-26 17:56:46: Right to Left: Copy File: 1 Delete File: 1 
+2020-04-26 17:56:46: == 同步开始由 On File Change, After Delay, Under Runner
+2020-04-26 17:56:46: 删除文件 '/Users/tangliangcheng/workspeace/lwc-erp-design/project-render/src/utils/api/test.js'
+2020-04-26 17:56:46: 新建复制 '/Users/tangliangcheng/workspeace/lwc-erp-design/form-generator/src/utils/api/data.js' -> '/Users/tangliangcheng/workspeace/lwc-erp-design/project-render/src/utils/api/data.js' (232)
+2020-04-26 17:56:46: == 同步完成. 历时: 00:00:01, 速度: 0.00/s, 完成: 2, 错误: 0
+2020-04-26 17:56:46: 

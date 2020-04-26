@@ -1,0 +1,7 @@
+{
+    "/test/:id": "/test",
+    "/test2?:id": "/test2",
+    "/test3/:id": "/test3",
+	"/test4?type=:id": "/test4",
+	"/layout/page-api-list": "/layout/page-api-list"
+}
