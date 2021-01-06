@@ -9,7 +9,7 @@
     "mock": "json-server --watch mock/db.js --routes mock/routes.json --m mock/post-to-get.js --port 3000"
   },
   "dependencies": {
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "core-js": "^3.6.4",
     "element-ui": "^2.13.1",
     "json-server": "^0.16.1",
